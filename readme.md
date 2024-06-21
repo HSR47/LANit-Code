@@ -1,10 +1,7 @@
 
 # Demonstration
 
-<video width="600" controls>
-  <source src="./Demonstration.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/HSR47/LANit-Code/blob/master/Demonstration.mp4
 
 # Setup Guide
 
