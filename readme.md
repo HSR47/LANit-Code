@@ -1,4 +1,11 @@
 
+# Demonstration
+
+<video width="600" controls>
+  <source src="./Demonstration.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # Setup Guide
 
 1. Open the setup (`LANit Installer.exe`).
