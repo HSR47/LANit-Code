@@ -1,7 +1,8 @@
 
 # Demonstration
 
-https://github.com/HSR47/LANit-Code/blob/master/Demonstration.mp4
+![Watch the video](./Demonstration.mp4)
+
 
 # Setup Guide
 
